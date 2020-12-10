@@ -5,26 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Landing Page</title>
     <link rel="StyleSheet" href="./css/style.css">
-
+    <link rel="stylesheet" type="text/css" href="./css/slide.css">
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
 </head>
 
 <body>
     <header>
-        <h1>MySite</h1>
-        <h3>Slogan go here...</h3>
+        <h1>Ảnh đẹp</h1>
+        <h3>Think different</h3>
     </header>
     <nav>
         <ul>
             <li><a data-section="home">Home</a></li>
-            <li><a data-section="services">Services</a></li>
             <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Products</a>
+                <a href="javascript:void(0)" class="dropbtn">ẢnhẢnh</a>
                 <div class="dropdown-content">
-                    <a data-section="link1">Link 1</a>
-                    <a data-section="link2">Link 2</a>
-                    <a data-section="link3">Link 3</a>
+                    <a data-section="link1">Ảnh Anime</a>
+                    <a data-section="link2">Ảnh Gái Xinh</a>
+                    <a data-section="link3">Ảnh Linh tinh</a>
                 </div>
             </li>
             <li style="float:right"><a data-section="about">About us</a></li>
@@ -54,7 +54,26 @@
     <section id="link3" class="hideable-section">
         <div>Link3 content</div>
     </section>
-
+    <div class="slide">
+		<div class="dieuhuong">
+			<i class="fa fa-chevron-circle-left" onclick="Back();"></i>
+			<i class="fa fa-chevron-circle-right" onclick="Next();"></i>
+		</div>
+		<div class="chuyen-slide">
+			<img src="img/1.jpg">
+			<img src="img/2.jpg">
+			<img src="img/3.jpg">
+			<img src="img/4.jpg">
+			<img src="img/5.jpg">
+			<img src="img/6.jpg">
+			<img src="img/7.jpg">
+			<img src="img/8.jpg">
+			<img src="img/9.jpg">
+			<img src="img/10.jpg">
+			<img src="img/11.jpg">
+		</div>
+	</div>
+    <script type="text/javascript" src="./js/slide.js"></script>
     <script>
         $(function() {
             $('nav ul li a').click(function() {
