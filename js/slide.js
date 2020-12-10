@@ -16,3 +16,7 @@ function Back(){
 	else Chuyen -= KichThuoc;
 	ChuyenSlide.style.marginLeft = '-' + Chuyen + 'px';
 }
+
+setInterval(function(){
+	Next();
+}, 3000);
