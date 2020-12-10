@@ -1,0 +1,71 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ảnh Anime</title>
+    <link rel="StyleSheet" href="./css/style.css">
+    <link rel="stylesheet" type="text/css" href="./css/slide.css">
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+</head>
+
+<body>
+    <header>
+        <h1>Ảnh Anime </h1>
+        <h3>Tổng hợp hình ảnh Anime đẹp tuyển chọn</h3>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="Home.html">Home</a></li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Danh mục</a>
+                <div class="dropdown-content">
+                    <a href="AnimePic.html">Ảnh Anime</a>
+                    <a href="GirlPic.html">Ảnh Gái Xinh</a>
+                    <a href="Picture.html">Ảnh Linh tinh</a>
+                </div>
+            </li>
+            <li style="float:right"><a data-section="about">About us</a></li>
+        </ul>
+    </nav>
+
+    <div class="slide">
+        <div class="dieuhuong">
+            <i class="fa fa-chevron-circle-left" onclick="Back();"></i>
+            <i class="fa fa-chevron-circle-right" onclick="Next();"></i>
+        </div>
+        <div class="chuyen-slide">
+            <img src="imgAnime/1.jpg">
+            <img src="imgAnime/2.jpg">
+            <img src="imgAnime/3.jpg">
+            <img src="imgAnime/4.jpg">
+            <img src="imgAnime/5.jpg">
+            <img src="imgAnime/6.jpg">
+            <img src="imgAnime/7.jpg">
+            <img src="imgAnime/8.jpg">
+            <img src="imgAnime/9.jpg">
+            <img src="imgAnime/10.jpg">
+            <img src="imgAnime/11.jpg">
+        </div>
+        <script type="text/javascript" src="./js/slide.js"></script>
+    </div>
+    <script>
+        $(function() {
+            $('nav ul li a').click(function() {
+                // Lấy section để hiển thị
+                var $section = $('#' + $(this).data('section'));
+
+                // Nếu đang hiện thì không làm gì.
+                // Nếu không, ẩn tất cả các se cho hiện (kiểu fade in) phần mong muốn.
+                if (!$section.is(':visible')) {
+                    $('.hideable-section').hide();
+                    $section.fadeIn();
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>
