@@ -33,20 +33,5 @@
     <marquee scrollamount="10">Lê Phạm Quốc Hưng - 1821050027</marquee>
     <h4 class="alignCenter">Chào Mừng Bạn Đến Với Trang Ảnh Đẹp</h4>
     <img src="200.gif" class="cangiua">
-    <script>
-        $(function() {
-            $('nav ul li a').click(function() {
-                // Lấy section để hiển thị
-                var $section = $('#' + $(this).data('section'));
-
-                // Nếu đang hiện thì không làm gì.
-                // Nếu không, ẩn tất cả các se cho hiện (kiểu fade in) phần mong muốn.
-                if (!$section.is(':visible')) {
-                    $('.hideable-section').hide();
-                    $section.fadeIn();
-                }
-            });
-        });
-    </script>
-</body>
+    
 </html>
