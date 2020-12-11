@@ -1,5 +1,4 @@
-                                                                Ảnh đẹp
-                                                     Tổng hợp hình ảnh đẹp tuyển chọn
+<h1 align="center">Welcome to readme.md 👋</h1>
 
 🔥 Đây là 1 trang web trình chiếu hình ảnh qua slide : 
 
@@ -10,6 +9,9 @@
 ![1](https://user-images.githubusercontent.com/74084773/101906468-92bac880-3beb-11eb-81f4-1fd7c69d8c16.PNG)
 
 
-Các Hình ảnh sử dụng trong trang web được lấy trên https://wallhere.com/
+Các Hình ảnh sử dụng trong trang web được lấy trên https://wallhere.com/ ( hình ảnh ở đây là miễn phí và không có bản quyền )
 
 Ngoài ra trong trang web có sử dụng 1 vài audio giúp bạn thư giãn trong khi xem ảnh trên trang web 🔥🔥🔥
+
+
+Trang web sử dụng 
