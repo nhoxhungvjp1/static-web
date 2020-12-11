@@ -17,7 +17,7 @@
 
 - Các Hình ảnh sử dụng trong trang web được tổng hợp trên https://wallhere.com/ ( hình ảnh ở đây là miễn phí và không có bản quyền )
 
-- Ngoài ra trong trang web có sử dụng 1 vài audio giúp bạn thư giãn trong khi xem ảnh trên trang web 🔥🔥🔥
+- Ngoài ra trong trang web có sử dụng 1 bản audio giúp bạn thư giãn trong khi xem ảnh trên trang web 🔥🔥🔥
 
 ## Giải thích
 
