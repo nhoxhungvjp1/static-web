@@ -19,7 +19,7 @@
 
 ## Giải thích
 
-file 'slide.js' giúp chuyển ảnh slide trong trang web
+nội dung trong file 'slide.js' giúp chuyển ảnh slide trong trang web
 
 ![2](https://user-images.githubusercontent.com/74084773/101912437-517ae680-3bf4-11eb-9864-2d06ef8e94cc.PNG)
 
