@@ -15,7 +15,8 @@
 ![1](https://user-images.githubusercontent.com/74084773/101906468-92bac880-3beb-11eb-81f4-1fd7c69d8c16.PNG)
 
 
-- Các Hình ảnh sử dụng trong trang web được tổng hợp trên https://wallhere.com/ ( hình ảnh ở đây là miễn phí và không có bản quyền )
+- Các Hình ảnh sử dụng trong trang web được tổng hợp trên https://wallhere.com/ ( hình ảnh ở đây là miễn phí  https://wallhere.com/vi/license
+)
 
 - Ngoài ra trong trang web có sử dụng 1 bản audio giúp bạn thư giãn trong khi xem ảnh trên trang web 🔥🔥🔥
 
