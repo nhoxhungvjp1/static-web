@@ -11,7 +11,7 @@
 > đây là giao diện trang ảnh thiên nhiên
 ![Capture](https://user-images.githubusercontent.com/74084773/101906261-41aad480-3beb-11eb-833e-0cf1037ac98d.PNG)
 
-> đây là giao diện trang ảnh thiên nhiên
+> đây là giao diện trang ảnh Anime
 ![1](https://user-images.githubusercontent.com/74084773/101906468-92bac880-3beb-11eb-81f4-1fd7c69d8c16.PNG)
 
 
