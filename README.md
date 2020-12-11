@@ -2,6 +2,8 @@
 
 > Ảnh đẹp<br /> Tổng hợp hình ảnh đẹp tuyển chọn
 
+## Giới thiệu
+
 🔥 Đây là 1 trang web trình chiếu hình ảnh qua slide : 
 
 🔥 Nó bao gồm hình ảnh về Anime,thiên nhiên,...
