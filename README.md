@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to readme.md 👋</h1>
 
+> Ảnh đẹp<br /> Tổng hợp hình ảnh đẹp tuyển chọn
+
 🔥 Đây là 1 trang web trình chiếu hình ảnh qua slide : 
 
 🔥 Nó bao gồm hình ảnh về Anime,thiên nhiên,...
