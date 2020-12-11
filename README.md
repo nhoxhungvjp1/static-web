@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to readme.md 👋</h1>
+<h1 align="center">Welcome to my static web 👋</h1>
 
 > Ảnh đẹp<br /> Tổng hợp hình ảnh đẹp tuyển chọn
 
