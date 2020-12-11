@@ -11,3 +11,5 @@
 
 
 Các Hình ảnh sử dụng trong trang web được lấy trên https://wallhere.com/
+
+Ngoài ra trong trang web có sử dụng 1 vài audio giúp bạn thư giãn trong khi xem ảnh trên trang web 🔥🔥🔥
